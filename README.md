@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![cover](https://github.com/donia-fioklou/travel_app/blob/main/img/WhatsApp%20Image%202023-05-11%20at%2017.36.48.jpeg)
+![cover](https://github.com/donia-fioklou/IMC_Calculator/blob/main/img/Screenshot.png)
 
